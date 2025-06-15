@@ -34,7 +34,7 @@ I currently work at **Aviatur**, one of the largest travel agencies in the count
 
 ## 📈 Let's Connect!
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/dilan-lopez/) *(puedo ayudarte a hacer uno si no tienes)*
+- 🔗 [LinkedIn](https://www.linkedin.com/in/dilan-garrido-bab3a413a/)
 - 🌐 [StrategoAI Website](https://strategonai.com/)
 - 💬 Open to remote/freelance projects — let’s build something amazing!
 
