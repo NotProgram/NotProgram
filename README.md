@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working at Aviatecnologia.
+I'm currently working at Aviatur.
 
 
 ## 🌐 Socials:
