@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Dilan López
 
-🎯 Junior Developer | 🚀 Tech Enthusiast | 🤖 Co-founder of StrategoAI
+🎯 Junior Developer | 🚀 Tech Enthusiast | 🤖 Co-founder of StrategonAI
 
 ---
 
@@ -8,7 +8,7 @@
 
 I'm a curious and passionate developer based in Colombia 🇨🇴. With a solid background in travel tech and 2+ years of hands-on experience in web development, I'm constantly learning and building smarter solutions.
 
-I currently work at **Aviatur**, one of the largest travel agencies in the country, and I'm also co-founder of **StrategoAI** — a startup focused on automating repetitive tasks for small businesses using AI and tools like **n8n**.
+I currently work at **Aviatur**, one of the largest travel agencies in the country, and I'm also co-founder of **StrategonAI** — a startup focused on automating repetitive tasks for small businesses using AI and tools like **n8n**.
 
 💻 Tech Stack:
 - PHP (Symfony), JavaScript, jQuery, Twig
@@ -35,7 +35,7 @@ I currently work at **Aviatur**, one of the largest travel agencies in the count
 ## 📈 Let's Connect!
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/dilan-garrido-bab3a413a/)
-- 🌐 [StrategoAI Website](https://strategonai.com/)
+- 🌐 [StrategonAI Website](https://strategonai.com/)
 - 💬 Open to remote/freelance projects — let’s build something amazing!
 
 ---
