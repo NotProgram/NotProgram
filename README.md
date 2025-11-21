@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Dilan López
 
-🎯 Junior Developer | 🚀 Tech Enthusiast | 🤖 Co-founder of StrategonAI
+🎯 Software Developer | 🚀 Tech Enthusiast | 🤖 Co-founder of StrategonAI
 
 ---
 
