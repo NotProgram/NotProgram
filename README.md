@@ -8,10 +8,10 @@
   ______  ______  __        ______  __   __    dilan@archlinux
  /\_  _`\/\__  _\/\ \      /\  _  \/\ "-.\ \   ---------------
  \ \ \/\ \/_/\ \/\ \ \     \ \ \L\ \ \ \-.  \  OS: Arch Linux x86_64
-  \ \ \ \ \ \ \ \ \ \ \  __ \ \  __ \ \ \`\ \ Shell: backend-first, API-driven
-   \ \ \_\ \ \_\ \_\ \ \L\ \_\ \ \/\ \ \ \_\ \Job: Junior Dev @ Aviatur
+  \ \ \ \ \ \ \ \ \ \ \  __ \ \  __ \ \ \`\\ \ Kernel: 3+ Years Exp / Travel Tech
+   \ \ \_\ \ \_\ \_\ \ \L\ \_\ \ \/\ \ \ \_\\ \Current Job: Junior Dev @ Aviatur
     \ \____/ /\_____\ \____/\ \_\ \_\ \_\ \_\Co-founder: StrategonAI 🤖
-     \/___/  \/_____/\/___/  \/_/\/_/\/_/\/_/Uptime: Automating the boring stuff
+     \/___/  \/_____/\/___/  \/_/\/_/\/_/\/_/Motto: "Automate the boring stuff"
 ```
 
 </div>
