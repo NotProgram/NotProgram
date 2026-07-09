@@ -1,5 +1,3 @@
-<div align="center">
-
 ```
 [dilan@archlinux ~]$ neofetch
 ```
@@ -13,8 +11,6 @@
                           Focus: Backend & AI Automation
                           Shell: PHP / Python / n8n
 ```
-
-</div>
 
 ---
 
