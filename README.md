@@ -5,13 +5,13 @@
 ```
 
 ```
-  ______  ______  __        ______  __   __    dilan@archlinux
- /\_  _`\/\__  _\/\ \      /\  _  \/\ "-.\ \   ---------------
- \ \ \/\ \/_/\ \/\ \ \     \ \ \L\ \ \ \-.  \  OS: Arch Linux x86_64
-  \ \ \ \ \ \ \ \ \ \ \  __ \ \  __ \ \ \`\\ \ Kernel: 3+ Years Exp / Travel Tech
-   \ \ \_\ \ \_\ \_\ \ \L\ \_\ \ \/\ \ \ \_\\ \Current Job: Junior Dev @ Aviatur
-    \ \____/ /\_____\ \____/\ \_\ \_\ \_\ \_\Co-founder: StrategonAI 🤖
-     \/___/  \/_____/\/___/  \/_/\/_/\/_/\/_/Motto: "Automate the boring stuff"
+██████╗ ██╗██╗      █████╗ ███╗   ██╗   dilan@archlinux
+██╔══██╗██║██║     ██╔══██╗████╗  ██║   ---------------
+██║  ██║██║██║     ███████║██╔██╗ ██║   OS: Arch Linux x86_64
+██║  ██║██║██║     ██╔══██║██║╚██╗██║   Role: Junior Dev @ Aviatur
+██████╔╝██║███████╗██║  ██║██║ ╚████║   Co-founder: StrategonAI
+╚═════╝ ╚═╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═══╝   Focus: Backend & AI Automation
+                                        Shell: PHP / Python / n8n
 ```
 
 </div>
@@ -62,3 +62,4 @@ PING freelance_opportunities (127.0.0.1) 56(84) bytes of data.
 lrwxrwxrwx  1 dilan  dilan  linkedin    -> https://www.linkedin.com/in/tu-usuario
 lrwxrwxrwx  1 dilan  dilan  strategonai -> https://strategonai.com
 ```
+
