@@ -1,0 +1,74 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 160" width="100%" height="100%" style="background: #000000; border-radius: 20px; border: 1px solid rgba(255, 255, 255, 0.1); font-family: -apple-system, BlinkMacSystemFont, 'SF Pro Display', 'SF Pro Text', 'Segoe UI', Helvetica, Arial, sans-serif;">
+  <defs>
+    <linearGradient id="podFill" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0.06"/>
+      <stop offset="100%" stop-color="#ffffff" stop-opacity="0.02"/>
+    </linearGradient>
+
+    <linearGradient id="podBorder" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0.25"/>
+      <stop offset="50%" stop-color="#ffffff" stop-opacity="0.06"/>
+      <stop offset="100%" stop-color="#ffffff" stop-opacity="0.16"/>
+    </linearGradient>
+
+    <radialGradient id="statusGlow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0.9"/>
+      <stop offset="100%" stop-color="#ffffff" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <!-- Deep Obsidian Base -->
+  <rect width="880" height="160" rx="20" fill="#000000"/>
+
+  <!-- Subtle Inner Grid -->
+  <g opacity="0.12">
+    <line x1="30" y1="80" x2="850" y2="80" stroke="#ffffff" stroke-width="0.5" stroke-dasharray="2,6"/>
+  </g>
+
+  <!-- 4 Frosted Glass Metric Columns -->
+  
+  <!-- POD 1: SYSTEM PROFILE -->
+  <g transform="translate(30, 24)">
+    <rect width="190" height="112" rx="14" fill="url(#podFill)" stroke="url(#podBorder)" stroke-width="1"/>
+    <path d="M 12 1 L 178 1" stroke="rgba(255, 255, 255, 0.35)" stroke-width="1" stroke-linecap="round"/>
+    <text x="18" y="28" font-size="9" font-weight="700" fill="#86868b" letter-spacing="1.5">METRICS // REPOSITORIES</text>
+    <text x="18" y="62" font-size="28" font-weight="700" fill="#ffffff" letter-spacing="-0.5">15+</text>
+    <text x="18" y="88" font-size="11" font-weight="500" fill="#a1a1a6">Active Repositories</text>
+    <text x="18" y="100" font-size="9" font-weight="400" fill="#6e6e73">Public &amp; Enterprise</text>
+  </g>
+
+  <!-- POD 2: PRIMARY RUNTIMES -->
+  <g transform="translate(240, 24)">
+    <rect width="190" height="112" rx="14" fill="url(#podFill)" stroke="url(#podBorder)" stroke-width="1"/>
+    <path d="M 12 1 L 178 1" stroke="rgba(255, 255, 255, 0.35)" stroke-width="1" stroke-linecap="round"/>
+    <text x="18" y="28" font-size="9" font-weight="700" fill="#86868b" letter-spacing="1.5">CORE // RUNTIMES</text>
+    <text x="18" y="58" font-size="13" font-weight="600" fill="#ffffff">PHP (Symfony)</text>
+    <text x="18" y="76" font-size="13" font-weight="600" fill="#ffffff">Python (FastAPI)</text>
+    <text x="18" y="98" font-size="10" font-weight="400" fill="#a1a1a6">TypeScript • n8n</text>
+  </g>
+
+  <!-- POD 3: PRODUCTION ARCHITECTURE -->
+  <g transform="translate(450, 24)">
+    <rect width="190" height="112" rx="14" fill="url(#podFill)" stroke="url(#podBorder)" stroke-width="1"/>
+    <path d="M 12 1 L 178 1" stroke="rgba(255, 255, 255, 0.35)" stroke-width="1" stroke-linecap="round"/>
+    <text x="18" y="28" font-size="9" font-weight="700" fill="#86868b" letter-spacing="1.5">DOMAIN // ARCHITECTURE</text>
+    <text x="18" y="58" font-size="13" font-weight="600" fill="#ffffff">Autonomous Agents</text>
+    <text x="18" y="76" font-size="13" font-weight="600" fill="#ffffff">Enterprise GDS APIs</text>
+    <text x="18" y="98" font-size="10" font-weight="400" fill="#a1a1a6">LatAm SMB Workflows</text>
+  </g>
+
+  <!-- POD 4: SYSTEM ENVIRONMENT -->
+  <g transform="translate(660, 24)">
+    <rect width="190" height="112" rx="14" fill="url(#podFill)" stroke="url(#podBorder)" stroke-width="1"/>
+    <path d="M 12 1 L 178 1" stroke="rgba(255, 255, 255, 0.35)" stroke-width="1" stroke-linecap="round"/>
+    <text x="18" y="28" font-size="9" font-weight="700" fill="#86868b" letter-spacing="1.5">SYSTEM // ENVIRONMENT</text>
+    <g transform="translate(18, 54)">
+      <circle cx="4" cy="0" r="3" fill="#ffffff">
+        <animate attributeName="opacity" values="0.4;1;0.4" dur="2s" repeatCount="indefinite"/>
+      </circle>
+      <text x="14" y="4" font-size="13" font-weight="600" fill="#ffffff">Arch Linux</text>
+    </g>
+    <text x="18" y="78" font-size="11" font-weight="500" fill="#d2d2d7">Rolling Release</text>
+    <text x="18" y="98" font-size="10" font-weight="400" fill="#6e6e73">Continuous Synapses</text>
+  </g>
+</svg>

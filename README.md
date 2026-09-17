@@ -39,7 +39,7 @@
   <tr>
     <td width="33%" valign="top">
       <p style="font-size: 10px; letter-spacing: 1.5px; color: #86868b; text-transform: uppercase; font-weight: 600; margin-bottom: 4px;">01 // ENTERPRISE</p>
-      <h3>✈️ Aviatur Flight Agent</h3>
+      <h3>Aviatur Flight Agent</h3>
       <p style="color: #a1a1a6; font-size: 13px; line-height: 1.6;">
         Autonomous flight-quoting engine integrated with airline GDS APIs. Translates complex route requests into multi-carrier quotes in real time, cutting turnaround times from hours to seconds.
       </p>
@@ -47,7 +47,7 @@
     </td>
     <td width="33%" valign="top">
       <p style="font-size: 10px; letter-spacing: 1.5px; color: #86868b; text-transform: uppercase; font-weight: 600; margin-bottom: 4px;">02 // STARTUP</p>
-      <h3>🚀 StrategonAI Core</h3>
+      <h3>StrategonAI Core</h3>
       <p style="color: #a1a1a6; font-size: 13px; line-height: 1.6;">
         Co-founder &amp; AI Architect. Designing end-to-end intelligent automation pipelines and autonomous agent swarms for high-growth businesses across Latin America.
       </p>
@@ -55,7 +55,7 @@
     </td>
     <td width="33%" valign="top">
       <p style="font-size: 10px; letter-spacing: 1.5px; color: #86868b; text-transform: uppercase; font-weight: 600; margin-bottom: 4px;">03 // AUTONOMOUS</p>
-      <h3>💎 AI Personal CFO</h3>
+      <h3>Autonomous Personal CFO</h3>
       <p style="color: #a1a1a6; font-size: 13px; line-height: 1.6;">
         Serverless personal wealth guardian with multimodal Gemini 2.5 audio &amp; receipt OCR, dynamic in-place navigation, and an interactive dark-mode Telegram Mini App.
       </p>
@@ -80,8 +80,7 @@ Environment     ───────  Arch Linux        •  Docker  •  Git  
 ### Telemetry
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NotProgram&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=ffffff&icon_color=ffffff&text_color=a1a1a6" height="155" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NotProgram&layout=compact&theme=dark&hide_border=true&bg_color=000000&title_color=ffffff&text_color=a1a1a6" height="155" alt="Top Languages"/>
+  <img src="./assets/telemetry.svg" width="100%" alt="System Telemetry" />
 </div>
 
 ---
