@@ -43,7 +43,7 @@
       <p style="color: #a1a1a6; font-size: 13px; line-height: 1.6;">
         Autonomous flight-quoting engine integrated with airline GDS APIs. Translates complex route requests into multi-carrier quotes in real time, cutting turnaround times from hours to seconds.
       </p>
-      <p style="font-size: 11px; color: #ffffff;"><code>PHP (Symfony)</code> &bull; <code>Python</code> &bull; <code>Flight GDS</code></p>
+      <p style="font-size: 11px; color: #ffffff;"><code>PHP (Symfony)</code> &bull; <code>Amazon Aurora</code> &bull; <code>Flight GDS APIs</code></p>
     </td>
     <td width="33%" valign="top">
       <p style="font-size: 10px; letter-spacing: 1.5px; color: #86868b; text-transform: uppercase; font-weight: 600; margin-bottom: 4px;">02 // STARTUP</p>
@@ -51,7 +51,7 @@
       <p style="color: #a1a1a6; font-size: 13px; line-height: 1.6;">
         Co-founder &amp; AI Architect. Designing end-to-end intelligent automation pipelines and autonomous agent swarms for high-growth businesses across Latin America.
       </p>
-      <p style="font-size: 11px; color: #ffffff;"><code>n8n</code> &bull; <code>LLM Orchestration</code> &bull; <code>FastAPI</code></p>
+      <p style="font-size: 11px; color: #ffffff;"><code>n8n</code> &bull; <code>LLM Orchestration</code> &bull; <code>Agent Swarms</code></p>
     </td>
     <td width="33%" valign="top">
       <p style="font-size: 10px; letter-spacing: 1.5px; color: #86868b; text-transform: uppercase; font-weight: 600; margin-bottom: 4px;">03 // AUTONOMOUS</p>
@@ -69,10 +69,10 @@
 ### Core Stack & Architecture
 
 ```text
-Backend Core    ───────  PHP 8+ (Symfony)  •  Python (FastAPI)  •  Node.js  •  RESTful Microservices
+Backend Core    ───────  PHP 8+ (Symfony)  •  RESTful Microservices  •  Enterprise Flight GDS
 AI & Agents     ───────  n8n Workflows    •  Gemini 2.5 Multimodal  •  Claude 3.7  •  Agent Swarms
-State & Data    ───────  PostgreSQL        •  MySQL  •  Redis  •  Google Sheets API
-Environment     ───────  Arch Linux        •  Docker  •  Git  •  Google Apps Script
+State & Data    ───────  Amazon Aurora (PostgreSQL / MySQL)  •  Redis  •  ACID Transactions
+Environment     ───────  Arch Linux        •  Docker  •  Git  •  AWS Cloud
 ```
 
 ---
