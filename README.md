@@ -57,7 +57,7 @@
       <p style="font-size: 10px; letter-spacing: 1.5px; color: #86868b; text-transform: uppercase; font-weight: 600; margin-bottom: 4px;">03 // AUTONOMOUS</p>
       <h3>Autonomous Personal CFO</h3>
       <p style="color: #a1a1a6; font-size: 13px; line-height: 1.6;">
-        Serverless personal wealth guardian with multimodal Gemini 2.5 audio &amp; receipt OCR, dynamic in-place navigation, and an interactive dark-mode Telegram Mini App.
+        Serverless personal wealth guardian with multimodal audio &amp; receipt OCR, dynamic in-place navigation, and an interactive dark-mode Telegram Mini App.
       </p>
       <p style="font-size: 11px;"><a href="https://github.com/NotProgram/personal-finance-cfo"><code>Explore Repository &rarr;</code></a></p>
     </td>
@@ -70,7 +70,7 @@
 
 ```text
 Backend Core    ───────  PHP 8+ (Symfony)  •  RESTful Microservices  •  Enterprise Flight GDS
-AI & Agents     ───────  n8n Workflows    •  Gemini 2.5 Multimodal  •  Claude 3.7  •  Agent Swarms
+AI & Agents     ───────  Autonomous Agent Swarms  •  n8n Workflows  •  Multi-Agent Orchestration
 State & Data    ───────  Amazon Aurora (PostgreSQL / MySQL)  •  Redis  •  ACID Transactions
 Environment     ───────  Arch Linux        •  Docker  •  Git  •  AWS Cloud
 ```
@@ -90,6 +90,4 @@ Environment     ───────  Arch Linux        •  Docker  •  Git  
     Open to high-impact engineering challenges and strategic AI collaborations.<br/>
     <a href="https://www.linkedin.com/in/dilan-garrido-bab3a413a/" style="color: #ffffff; text-decoration: underline;">Connect on LinkedIn &rarr;</a>
   </p>
-  <br/>
-  <sub>Designed with Apple minimalist glass aesthetic &bull; Operating on <b>Arch Linux</b></sub>
 </div>
